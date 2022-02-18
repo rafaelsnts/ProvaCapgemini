@@ -1,0 +1,15 @@
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\bin\Debug\net6.0\DesafioCapgemini.exe
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\bin\Debug\net6.0\DesafioCapgemini.deps.json
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\bin\Debug\net6.0\DesafioCapgemini.runtimeconfig.json
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\bin\Debug\net6.0\DesafioCapgemini.dll
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\bin\Debug\net6.0\ref\DesafioCapgemini.dll
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\bin\Debug\net6.0\DesafioCapgemini.pdb
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.csproj.AssemblyReference.cache
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.AssemblyInfoInputs.cache
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.AssemblyInfo.cs
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.dll
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\ref\DesafioCapgemini.dll
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.pdb
+C:\Users\Rafael Santos\source\repos\DesafioCapgemini\DesafioCapgemini\obj\Debug\net6.0\DesafioCapgemini.genruntimeconfig.cache
