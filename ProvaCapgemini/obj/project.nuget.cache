@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kL+wuH3+HK0CDbTBmoYKEZaVyc4if2BX35ERIhYiUyMbz7KmYJGmX29/g7tdLl46Bpz7AnRnt6TXO4rR25Whbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael Santos\\Downloads\\ProvaCapgemini\\ProvaCapgemini\\ProvaCapgemini.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Santos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Rafael Santos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael Santos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael Santos\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

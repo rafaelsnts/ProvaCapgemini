@@ -1,0 +1,32 @@
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.exe
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.deps.json
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.runtimeconfig.json
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.runtimeconfig.dev.json
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.dll
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ref\ProvaCapgemini.dll
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.pdb
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.csproj.AssemblyReference.cache
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.AssemblyInfoInputs.cache
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.AssemblyInfo.cs
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.csproj.CoreCompileInputs.cache
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.dll
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ref\ProvaCapgemini.dll
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.pdb
+C:\Users\AngeL\source\repos\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.genruntimeconfig.cache
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.exe
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.deps.json
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.runtimeconfig.json
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.runtimeconfig.dev.json
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.dll
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ref\ProvaCapgemini.dll
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\bin\Debug\net5.0\ProvaCapgemini.pdb
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.csproj.AssemblyReference.cache
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.AssemblyInfoInputs.cache
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.AssemblyInfo.cs
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.dll
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ref\ProvaCapgemini.dll
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.pdb
+C:\Users\Rafael Santos\Downloads\ProvaCapgemini\ProvaCapgemini\obj\Debug\net5.0\ProvaCapgemini.genruntimeconfig.cache
